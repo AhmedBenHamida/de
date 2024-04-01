@@ -1,0 +1,8 @@
+Country: Unknown, IP: ::1, Status: captcha
+Country: Unknown, IP: ::1, Status: captcha
+Country: Unknown, IP: ::1, Status: captcha
+Country: Unknown, IP: ::1, Status: captcha
+Country: Unknown, IP: ::1, Status: captcha
+Country: Unknown, IP: ::1, Status: captcha
+Country: Unknown, IP: ::1, Status: captcha
+Country: Unknown, IP: ::1, Status: captcha
